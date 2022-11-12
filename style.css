@@ -1,8 +1,9 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: fantasy, Helvetica, sans-serif;
     font-size: 20px;
     padding: 0 20px 30px 0;
     line-height: 1.4;
+   
 }
 .flex-container{
     margin-top: 20px;
@@ -15,8 +16,8 @@ body {
 }
 
 .flex-item{
-    background: cyan;
-    border: 1pt solid black;
+    background: rgb(227, 62, 62);
+    border: 1pt solid rgb(11, 13, 35);
     width: 10px;
     transition: 0.1s all ease;
 }
